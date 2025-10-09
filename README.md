@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on AI & Blockchain
 - 📫 How to reach me: me@rezki.dev
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve broken a few phones and laptops out of curiosity while trying to take them apart and see how they work. haha
