@@ -11,8 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rezki.dev](https://rezki.dev)
 
-- 💬 Ask me about **Backend, Go, .NET**
-
+- 💬 Ask me about **Backend, Go, .NET, NestJS**
 - 📫 How to reach me **me@rezki.dev**
 
 
